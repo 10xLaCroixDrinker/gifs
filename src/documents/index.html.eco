@@ -1,0 +1,14 @@
+---
+layout: 'default'
+title: ''
+---
+
+<form id="search">
+  <input type="text" id='tag' />
+</form>
+
+<!-- Populate list of gifs -->
+<div id="gifs">
+  <ul>
+  </ul>
+</div>
