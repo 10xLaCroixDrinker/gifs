@@ -18,11 +18,11 @@
 	<%- @getBlock('meta').toHTML() %>
 
 	<!-- DocPad Styles + Our Own -->
-	<%- @getBlock('styles').add(['/vendor/normalize.css','/styles/style.css']).toHTML() %>
+	<%- @getBlock('styles').add(['vendor/normalize.css','styles/style.css']).toHTML() %>
 
 	<!-- Icons -->
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="/icons/favicon.ico" />
+	<link rel="shortcut icon" href="icons/favicon.ico" />
 	<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
 	<link rel="apple-touch-icon-precomposed" href="icons/apple-touch-icon-57x57-precomposed.png" />
 	<!-- For first- and second-generation iPad: -->
@@ -44,12 +44,12 @@
 	<footer></footer>
 
 	<!-- jQuery -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="vendor/jquery.js"><\/script>')</script>
 
 	<!-- DocPad Scripts + Our Own -->
 	<%- @gifs.getGifs() %>
-	<%- @getBlock('scripts').add(['/vendor/log.js', '/vendor/modernizr.js', "/scripts/jquery.masonry.min.js", "/scripts/script.js"]).toHTML() %>
+	<%- @getBlock('scripts').add(['vendor/log.js', 'vendor/modernizr.js', "scripts/jquery.masonry.min.js", "scripts/script.js"]).toHTML() %>
 
 </body>
 </html>
