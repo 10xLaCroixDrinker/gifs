@@ -21,7 +21,7 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Jimmy's GIFs"
+			title: "Jamie's GIFs"
 
 			# The website description (for SEO)
 			description: """

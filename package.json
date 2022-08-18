@@ -1,16 +1,16 @@
 {
-  "name": "jimmy-gifs",
+  "name": "jamies-gifs",
   "version": "0.1.0",
   "private": true,
   "description": "A taxonomized GIF repo",
-  "homepage": "http://jimmyking.me/gifs",
-  "repo": "https://github.com/jking90/gifs",
-  "author": "Jimmy King <hello@jimmyking.me> (http://jimmyking.me)",
+  "homepage": "http://projects.jamieking.me/gifs",
+  "repo": "https://github.com/10xLaCroixDrinker/gifs",
+  "author": "Jamie King <hello@jamieking.me> (http://jamieking.me)",
   "maintainers": [
-    "Jimmy King <hello@jimmyking.me> (http://jimmyking.me)"
+    "Jamie King <hello@jamieking.me> (http://jamieking.me)"
   ],
   "contributors": [
-    "Jimmy King <hello@jimmyking.me> (http://jimmyking.me)"
+    "Jamie King <hello@jamieking.me> (http://jamieking.me)"
   ],
   "bugs": {
     "url": "https://github.com/jking90/gifs/issues"
