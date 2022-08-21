@@ -13,11 +13,11 @@
     "Jamie King <hello@jamieking.me> (http://jamieking.me)"
   ],
   "bugs": {
-    "url": "https://github.com/jking90/gifs/issues"
+    "url": "https://github.com/10xLaCroixDrinker/gifs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jking90/gifs.git"
+    "url": "https://github.com/10xLaCroixDrinker/gifs.git"
   },
   "engines": {
     "node": "0.8.x",
